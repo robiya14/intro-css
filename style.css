@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: indigo;
+}
+
+p {
+    font-size: 35px;
+}
+
+h1 {
+    color: red;
+    font-size: 20px
+}
+
+div {
+    border: 5px solid black;
+}
